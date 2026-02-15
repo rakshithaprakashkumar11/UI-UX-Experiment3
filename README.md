@@ -38,7 +38,8 @@ However, Apple Music also has certain limitations. Navigation between sections c
 
 The redesigned interface focuses on improving the user experience for discovering and saving new music by addressing the heuristic violations identified earlier. The updated design simplifies content presentation, improves feedback, and enhances user control.
 
-![unnamed](https://github.com/user-attachments/assets/76ffbe94-643e-44fb-b970-3a05cbff3519)
+![IMG-20260215-WA0006~2 jpg](https://github.com/user-attachments/assets/e2ce2821-193d-4c4e-83d9-684123b30458)
+
 
 ## Result:
 The Heuristic Evaluation of an Existing Website or App is created and verified.
